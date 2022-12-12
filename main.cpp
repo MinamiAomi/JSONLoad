@@ -34,12 +34,11 @@ int main()
         // 変更前のJsonオブジェクトを出力
         std::cout << j << std::endl << std::endl;
     
-        size_t openCount = 0;
         // Jsonオブジェクトから値を取り出し
-        openCount = j["OpenCount"];
+        size_t openCount = j["OpenCount"];
         // ファイルを開いた数を増やす
         openCount++;
-        // Jsonオブジェクトから値を上書き
+        // Jsonオブジェクトの値を上書き
         j["OpenCount"] = openCount;
    
     }
