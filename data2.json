@@ -1,0 +1,20 @@
+{
+    "OpenCount": 5,
+    "answer": {
+        "everything": 42
+    },
+    "happy": true,
+    "list": [
+        1,
+        0,
+        2
+    ],
+    "name": "Aho3",
+    "nothing": null,
+    "object": {
+        "currency": "USD",
+        "value": 42.99
+    },
+    "pi": 3.141592,
+    "zet": 3.141592
+}
