@@ -1,5 +1,5 @@
 {
-    "OpenCount": 5,
+    "OpenCount": 1,
     "answer": {
         "everything": 42
     },
@@ -9,12 +9,11 @@
         0,
         2
     ],
-    "name": "Aho3",
+    "name": "Niels",
     "nothing": null,
     "object": {
         "currency": "USD",
         "value": 42.99
     },
-    "pi": 3.141592,
-    "zet": 3.141592
+    "pi": 3.141592
 }
