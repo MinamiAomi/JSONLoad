@@ -1,5 +1,5 @@
 {
-    "OpenCount": 1,
+    "OpenCount": 0,
     "answer": {
         "everything": 42
     },
@@ -15,5 +15,11 @@
         "currency": "USD",
         "value": 42.99
     },
-    "pi": 3.141592
+    "pi": 3.141592,
+    "stage": {
+        "block": {
+            "currency": "USD",
+            "value": 42.99
+        }
+    }
 }
